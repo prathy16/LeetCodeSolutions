@@ -1,4 +1,6 @@
-# https://leetcode.com/problems/sparse-matrix-multiplication/
+// https://leetcode.com/problems/sparse-matrix-multiplication/
+
+// Using two tables 
 
 class Solution {
 public:
